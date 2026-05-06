@@ -1,5 +1,6 @@
-<h1 align="center">Hi, I'm Vansh Kamra 👋</h1>
-<h3 align="center">CS @ BITS Pilani | Building scalable backend systems, API infrastructure, and AI tooling.</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=CS+%40+BITS+Pilani;Building+scalable+backend+systems;Architecting+AI+Infrastructure;Open-Source+Contributor" alt="Typing SVG" />
+</div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vanshkamra12" target="_blank">
@@ -17,12 +18,21 @@
 
 ### 👨‍💻 About Me
 
-I'm a backend and AI infrastructure engineer who cares about systems that are observable, correct under load, and maintainable. Instead of just wrapping LLM APIs, I focus on the infrastructure layer—routing, rate limiting, stateful agent memory, and model fine-tuning.
-
-- 🎓 **Education:** BSc Computer Science @ BITS Pilani (2024-2027)
-- 🔭 **Currently Building:** **InferGate**, a 5-microservice AI API gateway with distributed tracing and Redis rate limiting.
-- 🤝 **Open Source:** Active contributor to **Meshery (CNCF)** and **vscode-swift**.
-- 💬 **Ask me about:** Microservices architecture, LangGraph state machines, QLoRA fine-tuning, and Docker networking.
+```python
+class SoftwareEngineer:
+    def __init__(self):
+        self.name = "Vansh Kamra"
+        self.education = "BSc Computer Science @ BITS Pilani"
+        self.focus = "API Infrastructure, Distributed Systems, AI Tooling"
+        self.philosophy = "Build systems that are observable, correct under load, and maintainable."
+        
+    def current_projects(self):
+        return [
+            "InferGate: 5-microservice AI API gateway with distributed tracing",
+            "ServiceHive: Stateful LangGraph SaaS support agent",
+            "Meshery (CNCF): Open-source contributor"
+        ]
+```
 
 ---
 
@@ -49,3 +59,12 @@ I'm a backend and AI infrastructure engineer who cares about systems that are ob
 <p align="center">
   <i>"Ship real. Break things openly, and build systems that scale."</i>
 </p>
+
+---
+
+### 📈 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vanshkamra12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshkamra12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="165" />
+</div>
