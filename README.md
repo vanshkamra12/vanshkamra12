@@ -16,23 +16,14 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 The TL;DR
 
-```python
-class SoftwareEngineer:
-    def __init__(self):
-        self.name = "Vansh Kamra"
-        self.education = "BSc Computer Science @ BITS Pilani"
-        self.focus = "API Infrastructure, Distributed Systems, AI Tooling"
-        self.philosophy = "Build systems that are observable, correct under load, and maintainable."
-        
-    def current_projects(self):
-        return [
-            "InferGate: 5-microservice AI API gateway with distributed tracing",
-            "ServiceHive: Stateful LangGraph SaaS support agent",
-            "Meshery (CNCF): Open-source contributor"
-        ]
-```
+I am a CS student at BITS Pilani specializing in **backend infrastructure** and **applied AI**. Rather than building thin wrappers around LLMs, I focus on the complex engineering layers underneath:
+
+- ⚡ **Infrastructure First:** Building API gateways, Redis rate limiters, and distributed request tracing.
+- 🧠 **Agentic State Machines:** Designing persistent, multi-turn AI workflows and RAG pipelines using LangGraph.
+- 🏗️ **Production Ready:** Ensuring systems are containerized (Docker), correct under concurrent load, and highly observable.
+- 🤝 **Open Source:** Actively contributing to mature codebases like **Meshery (CNCF)** and **vscode-swift** to learn how software operates at scale.
 
 ---
 
