@@ -16,14 +16,15 @@
 
 ---
 
-### 👨‍💻 The TL;DR
+### ⚙️ System Specifications
 
-I am a CS student at BITS Pilani specializing in **backend infrastructure** and **applied AI**. Rather than building thin wrappers around LLMs, I focus on the complex engineering layers underneath:
-
-- ⚡ **Infrastructure First:** Building API gateways, Redis rate limiters, and distributed request tracing.
-- 🧠 **Agentic State Machines:** Designing persistent, multi-turn AI workflows and RAG pipelines using LangGraph.
-- 🏗️ **Production Ready:** Ensuring systems are containerized (Docker), correct under concurrent load, and highly observable.
-- 🤝 **Open Source:** Actively contributing to mature codebases like **Meshery (CNCF)** and **vscode-swift** to learn how software operates at scale.
+| Component | Specification |
+|:---|:---|
+| **Core Architecture** | Backend Systems & Applied AI |
+| **Execution Engine** | CS @ BITS Pilani |
+| **Primary Protocols** | Python, TypeScript, Node.js, C++ |
+| **Current Focus** | Building the infrastructure layer (API Gateways, Rate Limiters, Stateful Checkpointers) instead of just LLM wrappers. |
+| **Key Subsystems** | `Docker` `LangGraph` `Redis` `MongoDB` `PyTorch` `FastAPI` |
 
 ---
 
